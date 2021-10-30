@@ -1,5 +1,5 @@
 # Front-end da aplicação feita no NLW Heat
-## Feita utilizando React
+## Site feito utilizando React
 
 ### Funcionalidades do site:
 - Login com Github
